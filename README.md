@@ -7,6 +7,7 @@ Complered the code, but unable to get the tasks to run. Things I have attempted:
 - Rebuilt environment multiple times
 - Attempted to run in GitHub Codespaces
 - Attempted to retrain model after removing old artifacts
+- Running in Docker
 
 Several of the issues mentioned by CoPilot include:
 - Spark 4.1.1 being incompatible with Windows
